@@ -7,6 +7,7 @@ Reference Guide 文档。
 - [本笔记学习目标](本笔记学习目标.md)
 - [GPU的初步认知](./GPU的初步认知.md)
 - [ROCm简介](./ROCm简介.md)
+- [RDNA白皮书](./RDNA白皮书.md)
 - [RDNA3介绍](./RDNA3介绍.md)
 - [引言](./引言.md)
 - [渲染概念](./渲染概念.md)
