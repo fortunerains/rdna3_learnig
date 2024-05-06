@@ -32,4 +32,4 @@ Reference Guide 文档。
 - [Linux  GPU AMD 等关键概念及概览框图.md](./Linux%20%20GPU%20AMD%20等关键概念及概览框图.md)
 - [amd gpu kfd start.md](./amd%20gpu%20kfd%20start.md)
 - [DRM简介](./DRM%20简介.md)
-- [DRM core](./DRM%20core.md)
+- [DRM core1](./DRM%20core1.md)
